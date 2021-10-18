@@ -1,7 +1,7 @@
 # CCM: An alternative C++ math library 
 This README is basically about the CCM library
 # Overview
-**CCM** is an alternative to the reliable <cmath> library in C++. It features, basically, a class around cmath functions. For example:
+**CCM** is an alternative to the reliable "cmath" library in C++. It features, basically, a class around cmath functions. For example:
   ```cpp
   #include <iostream>
   #include <ccm/ccm.hpp> // the main library
