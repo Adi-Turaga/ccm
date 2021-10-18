@@ -23,7 +23,7 @@ This README is basically about the CCM library
   }
   ```
   # Contributing
-  Contributing is welcome, as this library does need some work. Look at CONTRIBUTING.md for more
+  Contributing is welcome, as this library does need some work. If you see bugs or want to add a new feature, do the normal GitHub workflow thing (I'm not experienced with GitHub, sorry)
   
   # To Install
   * *For Linux/Unix users*: Execute the *linux_install.sh* file (first make it executable)
